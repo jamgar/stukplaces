@@ -7,3 +7,33 @@
   z-index: 1;
   width: 200px;
 }
+
+.landing-title {
+  padding-top: 20%;
+}
+
+.landing {
+  background: image-url("places2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100vh;
+}
+
+.navbar {
+  margin-bottom: 0px;
+}
+
+.btn-landing {
+  color: #FFF;
+  background: none;
+  border: solid;
+  font-weight: bold !important;
+  font-size: 180%;
+}
+
+.btn-landing:hover {
+  color: #3A539B;
+  background: none;
+  border: solid;
+}
